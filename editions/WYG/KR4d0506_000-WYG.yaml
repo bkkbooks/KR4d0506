@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0506/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部五
+  hash: sha256:91d391b03400458fe4b5406ed6606e69862a8e4f767c40fe8478f37cc3ae4e00
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0506_WYG_000-1a, image: WYG1210/WYG1210-0543a.png}
+body:
+  text: 所安遺集别集類四元提要臣等謹案所安遺集一卷元陳泰撰泰字志同别號所安長沙茶陵人延祐二年進士除龍泉縣主簿栖遲薄宦惟以吟咏自適竟終于是官其著作亦未成集至其曾孫朴始裒輯以成此編故曰遺編明成化中其來孫銓等重刋巻末有􅃇題六字云後叚蠧損惜哉則併朴所輯亦非完本也泰與歐陽元同舉於鄊以天馬賦得薦考官批其巻曰氣骨蒼古音節悠然天門洞開天馬可以自見矣今賦與批詞俱載集首後元躋膴仕文章震耀一時泰集乃㡬㡬不傳今觀所作七言歌行居十之七八大致氣格近李白而造句則多類李賀温庭筠雖或不免奔軼太過剽而不留又不免時傷粗獷不及元之風規大雅具有典型要其才氣縱横頗多竒句亦自有不可湮沒者乆晦而終傳于世亦有由矣乾隆四十六年十月㳟校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:96761bd1ebcbf24d177a19d0c0e99b135b299485db82f059eaf0ddc73c9cadb7
+metadata:
+  title: 所安遺集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:12:24.002526'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4d0506/KR4d0506_000.txt
+hash: sha256:5932b96504eff7df86a97e4b95fac343df05204775385c594e417f113812b58b
