@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR4d0506_000.yaml, hash: 'sha256:ac866ea29e563ac32473f11e0b94e8efdddffc9904658bbf2e217aa62a98dec0'}
   - {seq: 1, filename: KR4d0506_001.yaml, hash: 'sha256:305c71ea097aa1a97f9eab733f423cd5c9f5d71d7decebd715ff7b6ee90e1783'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0506_000.markers.yaml, hash: 'sha256:4b210db68ef65d9fca7d1d60c396845b275cfb40b5360b0310131c5bb301b040'}
-  - {seq: 1, role: markers, filename: assets/KR4d0506_001.markers.yaml, hash: 'sha256:10c37b09727e7772fe812191fd8120576cedb62cd669b87670e943ce67ddcb20'}
+  - {seq: 0, role: markers, filename: assets/KR4d0506_000.markers.yaml, hash: 'sha256:143e7a7b6cec72f0dba37ce542846574e7c4a5025220a82224e03864889ee477'}
+  - {seq: 1, role: markers, filename: assets/KR4d0506_001.markers.yaml, hash: 'sha256:968179ebb6896c7ab4cf0bac20b235d51f139d762e221eb230fe76c4a556dd59'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 所安遺集
   type: section
   level: 1
-hash: sha256:2edc4a9d3ff1e225f6962337f945367372d50b37a5cdea94fdc7a671f3926615
+hash: sha256:18b460052e841dbeb647783a48c228a5591ea1d2d39b57a5b34b05fef6a3167e
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

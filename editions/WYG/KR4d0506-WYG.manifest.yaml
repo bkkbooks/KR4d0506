@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR4d0506_000-WYG.yaml, hash: 'sha256:5932b96504eff7df86a97e4b95fac343df05204775385c594e417f113812b58b'}
   - {seq: 1, filename: KR4d0506_001-WYG.yaml, hash: 'sha256:62bb10e7bb7c9573b7fc52d35e2cc117d49f618fb9b64b6ff10f3fcebbbb9ba0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0506_000-WYG.markers.yaml, hash: 'sha256:5f2d072580fbd1b74400dc7b7fdd97753b7b9b50b2dbfb2229ee3643c4149794'}
-  - {seq: 1, role: markers, filename: assets/KR4d0506_001-WYG.markers.yaml, hash: 'sha256:963152bf1919d60378db9992a0531ff2f1194043c879619daa749a6cb3ecb658'}
+  - {seq: 0, role: markers, filename: assets/KR4d0506_000-WYG.markers.yaml, hash: 'sha256:29e4170ad2dc0b2d03a0d6b78919f1cd245992f6d7f6e5e704d9eab0ec7ac4d3'}
+  - {seq: 1, role: markers, filename: assets/KR4d0506_001-WYG.markers.yaml, hash: 'sha256:5839bfa9ca8de9fdd38148fa5a41f35f8dcf811a264dd7b00ac291a65c4203b8'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 所安遺集
   type: section
   level: 1
-hash: sha256:544a82c966dbc8e8410efbdac8778771327ef04a88aa4d7943fe60e621e4665d
+hash: sha256:4dc6c87a5e480796baa6464b0d2335aa06fc3e8aaf44256c228b566639c8c6e6
